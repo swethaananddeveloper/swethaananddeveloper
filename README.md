@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hi, I'm **Swetha** 👩‍💻  
-A passionate **Frontend Developer in India** 🇮🇳 with a strong background in **Digital Marketing & SEO**.
+A passionate ** Freelance Frontend Developer in India**  with a strong background in **Digital Marketing & SEO**.
 
 I specialize in building responsive, user-friendly web applications while also optimizing them for performance and search visibility. My unique blend of development and marketing skills helps me create websites that not only look great but also rank and perform well.
 
