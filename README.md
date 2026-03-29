@@ -1,6 +1,7 @@
-# 💫 About Me:
+# About Me:
 
-Hi, I'm **Swetha** 👩‍💻  
+Hi, I'm **Swetha** 
+
 A passionate ** Freelance Frontend Developer in India**  with a strong background in **Digital Marketing & SEO**.
 
 I specialize in building responsive, user-friendly web applications while also optimizing them for performance and search visibility. My unique blend of development and marketing skills helps me create websites that not only look great but also rank and perform well.
@@ -18,11 +19,6 @@ I enjoy turning ideas into interactive digital experiences using modern technolo
 - Backend: Django, MySQL  
 - SEO: On-page, Technical SEO, Keyword Research, Link Building  
 - Tools: SEMrush, Ahrefs, Screaming Frog, Figma, Canva  
-
-## Currently Learning:
-- Advanced React & Next.js  
-- Backend development with Python  
-- Full-stack project architecture  
 
 ## Goals:
 - Become a Full Stack Developer  
